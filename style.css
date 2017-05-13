@@ -1,0 +1,25 @@
+body {
+background:url(bg.jpeg) center center no-repeat fixed;
+background-size: cover;
+/*font-family: 'Lobster', cursive;*/
+font-family: 'Montserrat', sans-serif;
+}
+
+.rowHeight{
+	padding-top:300px;
+	padding-bottom: 300px;
+}
+
+.si{
+	color:#fff;
+	font-size: 70px;
+}
+
+.dis{
+	font-size: 25px;
+	
+}
+
+.boxed{
+	border:2px solid #696969;
+}
