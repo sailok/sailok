@@ -24,3 +24,10 @@ font-family: 'Montserrat', sans-serif;
 .boxed{
 	border:2px solid #696969;
 }
+.si:hover{
+	font-size:100px;
+	font-color:#696969;
+	transition: font-size 0.25s linear 0s;
+	animation-name: color;
+}
+
